@@ -1,6 +1,6 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Елена Круподерова Крутая](https://up.htmlacademy.ru/javascript/21/user/1272249).
+* Студент: [Елена Круподерова](https://up.htmlacademy.ru/javascript/21/user/1272249).
 * Наставник: `Михаил Огородник`.
 
 ---
